@@ -3,4 +3,4 @@
 Template para o projecto receitas feito em puro html
 sou happy
 
-https://Harpreet9092.github.io/projeto-html-receitas-Harpreet9092/
+https://mariocosta-ufcd.github.io/projeto-html-receitas-Harpreet9092/
