@@ -44,3 +44,14 @@ button {
     margin-top: 20px;
     cursor: pointer;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-image: url("images/background1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #222;
+}
