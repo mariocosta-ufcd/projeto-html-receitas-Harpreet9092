@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: #fff;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+button {
+    font-family: inherit;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    color: rgb(0, 0, 0);
+}
+
+
+.pizza {
+    background-color: burlywood;
+}
+
+.bolo {
+    background-color: burlywood;
+}
+
+.arroz {
+    background-color: burlywood;
+}
+
+.voltar {
+    background-color: #34495e;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
